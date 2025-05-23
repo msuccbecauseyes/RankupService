@@ -1,3 +1,6 @@
+// THis is made for a glitch project, Create one at https://glitch.com > new node app
+
+
 const fastify = require("fastify")({ logger: true });
 const fetch = require("node-fetch");
 
